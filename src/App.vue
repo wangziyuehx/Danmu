@@ -49,6 +49,7 @@ export default {
         time: 5,
         type: MESSAGE_TYPE.NORMAL
       })
+this.msg = ''
       // if (this.position === 'top') {
       //   this.barrageList.push({
       //     id: ++this.currentId,
